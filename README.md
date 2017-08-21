@@ -1,7 +1,18 @@
+![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
+
 # Wildside: created by Olly Middleton, Jack May and Max Eskell
 
 <h1> Wildside walks </h1>
 A REST app, built to allow people to find, create and share their favourite wildlife walks.
+
+<figure>
+	<a href="https://wildside-walks.herokuapp.com//">
+    <img src="http://i.imgur.com/UooXH1b.png">
+  </a>
+	<figcaption>
+      The app name Wild Side is meant to appeal to the users sense of adventure, to explore a new route they've not walked along before.
+  </figcaption>
+</figure>
 
 <h2> Getting started </h2>
 Download or fork the code and save it to your preferred directory.  
@@ -38,6 +49,15 @@ Statements   : 65.13% ( 198/304 ) </br>
 Branches     : 49.44% ( 44/89 ) </br>
 Functions    : 64.86% ( 24/37 ) </br>
 Lines        : 69.2% ( 191/276 ) </br>
+
+<figure>
+	<a href="https://wildside-walks.herokuapp.com//">
+    <img src="http://i.imgur.com/2yHWzUs.png">
+  </a>
+	<figcaption>
+      Each walk is illustrated on a map and has accompanying images, users can also mark the trail as completed so it appears in their profile. If the trail belongs to the user, they can edit it. 
+  </figcaption>
+</figure>
 
 <h2> Deployment </h2>
 The app is built to de deployed on Heroku.  
